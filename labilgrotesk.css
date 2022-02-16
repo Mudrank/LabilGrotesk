@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Merriweather:900&display=swap");
+
+@font-face {
+  font-family: LabilRegular;
+  src: url(./fonts/LabilGroteskBasic-Regular.woff2);
+}
+
+@font-face {
+  font-family: LabilBlack;
+  src: url(./fonts/LabilGroteskBasic-Black.woff2);
+}
+
+@font-face {
+  font-family: LabilLight;
+  src: url(./fonts/LabilGroteskBasic-Light.woff2);
+}
