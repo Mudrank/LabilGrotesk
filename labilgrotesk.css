@@ -2,15 +2,15 @@
 
 @font-face {
   font-family: LabilRegular;
-  src: url(./fonts/LabilGroteskBasic-Regular.woff2);
+  src: url(./LabilGrotesk-Regular.woff2);
 }
 
 @font-face {
   font-family: LabilBlack;
-  src: url(./fonts/LabilGroteskBasic-Black.woff2);
+  src: url(./LabilGrotesk-Black.woff2);
 }
 
 @font-face {
   font-family: LabilLight;
-  src: url(./fonts/LabilGroteskBasic-Light.woff2);
+  src: url(./LabilGrotesk-Light.woff2);
 }
